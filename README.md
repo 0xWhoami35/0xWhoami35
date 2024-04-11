@@ -20,7 +20,7 @@ I will try to be better than before and explore something new
 ![0xWhoami35 GitHub stats](https://github-readme-stats.vercel.app/api?username=0xWhoami35&show_icons=true&theme=radical)
 
 
-
+My Blog Page : https://0xwhoami35.github.io/
 
 
 ## 🏆
