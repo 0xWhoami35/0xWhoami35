@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<!--
-**0xWhoami35/0xWhoami35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![0xWhoami35](https://www.hackthebox.com/badge/image/849443)
 
-Here are some ideas to get you started:
+<p align="center"><img src="https://e.top4top.io/p_302318s1a1.gif" alt="animated" /></p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ThatNotEasy/ThatNotEasy/main/resources/github-header-image.png" alt="Header">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## About Me
+
+I'm a Student who loves to explore new things especially on CyberSecurity.
+
+I will try to be better than before and explore something new
+
+
+
+
+
+
+
+
+## 🏆
+![](https://github-profile-trophy.vercel.app/?username=0xWhoami35&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<a href="https://www.buymeacoffee.com/ardian09171s" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
